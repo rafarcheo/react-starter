@@ -1,7 +1,4 @@
 ## Instalation:
 		
-		$ npm install
+	$ yarn install
 
-## Version of packages are freeze using:
-
-		$ npm shrinkwrap
